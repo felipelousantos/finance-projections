@@ -1,0 +1,13 @@
+{
+    "name": "felipelousantoss/finance-projections",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Felipe Santos",
+            "email": "40555737+felipelousantos@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*"
+    }
+}
